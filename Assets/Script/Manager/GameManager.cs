@@ -5,6 +5,7 @@ public class GameManager : MonoBehaviour
     public static GameManager Instance;
 
     public UIManager UIManager;
+    public BattleManager BattleManager;
 
 
     private void Awake()
